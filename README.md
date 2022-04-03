@@ -34,11 +34,12 @@ Impacts of replacing the math and reading scores for Thomas High School as there
 - How is the school summary affected?
     - Thomas High School is the only school being impacted as this dataset shows the data for individual schools.
     - There is no change to the data of the rest of the schools.
-   
-
+    
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     - The average math score dropped slightly by 0.067412 but the average rading score increased by 0.047152.  
-    - The passing percetage of math, passing percentage of reading and the overall passing percentage all dropped slightly.
+    - The passing percetage of math dropped by 0.086481%.
+    - The passing percentage of reading decreased by 0.121479%.
+    - The overall passing percentage all dropped by 0.317688%.
 
     Original
     

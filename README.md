@@ -8,7 +8,7 @@ The list of deliverables includes:
 - school summary for each school,
 - a list of the top and low performing schools,
 - the scores by grade for each school,
-- the scores by school spneding,
+- the scores by school spending,
 - the scores by school size, and
 - the scores by school type.
 
@@ -36,9 +36,11 @@ Impacts of replacing the math and reading scores for Thomas High School as there
     - The passing percetage of math, passing percentage of reading and the overall passing percentage all dropped slightly.
 
     Original
+    
     [school_summary_original](https://github.com/SzeWingChan/School_District_Analysis/blob/main/Resources/school_summary_original.png)
 
     New
+    
     [school_summary_new](https://github.com/SzeWingChan/School_District_Analysis/blob/main/Resources/school_summary_new.png)
 
 - How does replacing the ninth-grade scores affect the following:
@@ -70,7 +72,5 @@ Impacts of replacing the math and reading scores for Thomas High School as there
 Changes in the updated district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
 -   The average math score of Thomas High School is changed.
 -   The average reading score of Thomas High School is changed.
--   The passing percetage of math and passing percentage of reading are changed.
+-   The passing percentage of math and passing percentage of reading are changed.
 -   The percetange of overall score of Thomas High School is changed.
-
-

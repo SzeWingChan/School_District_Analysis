@@ -76,7 +76,7 @@ Impacts of replacing the math and reading scores for Thomas High School as there
 
 ## Summary
 Changes in the updated district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
--   The average math score of Thomas High School is lowered.
--   The passing percentage of math is lowered.
--   The passing percentage of passing percentage of reading is lowered.
--   The percentage of overall score of Thomas High School is lowered.
+-   The average math score of is lowered.
+-   The passing percentage of math has dropped.
+-   The passing percentage of reading has decreased.
+-   The percentage of overall score of Thomas High School has dropped.

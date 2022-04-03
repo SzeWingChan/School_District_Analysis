@@ -17,7 +17,10 @@ The list of deliverables includes:
 Impacts of replacing the math and reading scores for Thomas High School as there is evidence of academic dishonesty.
 
 - How is the district summary affected?
-    - The average math score, the percentage of students passing math test, the percentage of students passing reading test and the overall passing percentage are lowered after the math and reading scores of the ninth graders of Thomas High School being removed.
+    - The average math score is lowered by 0.1.
+    - The percentage of students passing math dropped by 0.2%.
+    - The percentage of students passing reading decreased by 0.1%.
+    - The overall passing percentage is lowered by 0.3%.
 
     Original
     
@@ -50,9 +53,9 @@ Impacts of replacing the math and reading scores for Thomas High School as there
         - Instead of showing the average math and reading scores, the ninth graders' scores of thhe Thomas High School are being replaced by NaN (i.e. "Not A Number").  
         - There is no change to the data of other high schools.
 
-        ![Math Scores by Grade] (https://github.com/SzeWingChan/School_District_Analysis/blob/main/math_scores_by_grade.png)
+        ![Math Scores by Grade](https://github.com/SzeWingChan/School_District_Analysis/blob/main/math_scores_by_grade.png)
 
-        ![Reading Scores by Grade] (https://github.com/SzeWingChan/School_District_Analysis/blob/main/reading_scores_by_grade.png)
+        ![Reading Scores by Grade](https://github.com/SzeWingChan/School_District_Analysis/blob/main/reading_scores_by_grade.png)
 
     - Scores by school spending
         - The numbers remain the same since the impact of the Thomas High School's ninth graders is minimal compare to the vast dataset. 

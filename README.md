@@ -51,7 +51,7 @@ Impacts of replacing the math and reading scores for Thomas High School as there
 
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
-        - Instead of showing the average math and reading scores, the ninth graders' scores of thhe Thomas High School are being replaced by NaN (i.e. "Not A Number").  
+        - Instead of showing the average math and reading scores, the ninth graders' scores of the Thomas High School are being replaced by NaNs (i.e. "Not A Number").  
         - There is no change to the data of other high schools.
 
         ![Math Scores by Grade](https://github.com/SzeWingChan/School_District_Analysis/blob/main/math_scores_by_grade.png)
